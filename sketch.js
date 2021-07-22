@@ -18,7 +18,7 @@ function preload(){
 
   //load sound here
 knifeSound=loadSound("knifeSwoosh.mp3")
-enemySound=loadSound("gameOver.mp3")
+enemySound=loadSound("gameover.mp3")
 }
 
 
